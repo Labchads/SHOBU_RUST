@@ -1,11 +1,10 @@
 # SHOBU_RUST
-SHOBU written in Rust using 1v1 Networking and GUI.
+SHOBU written in Rust using React.js
 
 ## TODO LIST
 
-- [ ] Client.
-- [ ] Server.
-- [ ] GUI / 2d Rendering.
+- [ ] React Rendering.
+- [ ] Play with friends
 - [ ] Navigatable Menu using mouse.
 - [ ] Initialize the boards.
 - [ ] Render a nice rope too.
@@ -34,3 +33,6 @@ Future improvements:
 - [ ] Visual setting, checkered board or "normal" board.
 - [ ] bo3, winner plays white next game (goes second).
 - [ ] Return to lobby after the game is over.
+- [ ] ELO
+- [ ] Friends
+- [ ] Navigatable page
